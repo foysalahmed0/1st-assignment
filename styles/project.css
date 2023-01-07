@@ -91,3 +91,12 @@
     text-align: center;
     color: #737272;
 }
+/* sectuin-2 styles */
+.section-2{
+    background-image: url(/images/gradient1.png);
+    display: flex;
+    padding: 100px;
+    background: center;
+    /* background: no-repeat; */
+    text-align: center;
+}
