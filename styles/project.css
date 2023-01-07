@@ -1,0 +1,93 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+/* header styles */
+.header{
+    background-image: url(../images/banner/banner2.png);
+    /* padding:; */
+    text-align: right;
+    
+
+
+}
+
+.header-title{
+    position: ;
+    font-size: 50px;
+    padding: 216px 200px 24px 800px;
+}
+
+.header-description{
+    color: dimgrey;
+    padding: 0px 200px 24px 800px;
+}
+.header-btm{
+    padding: 0px 200px 100px 800px;
+    
+    
+}
+.header-btm-text{
+    border-radius: 5px;
+    padding: 0px 20px;
+    background-color: rgb(235, 110, 21);
+    color: aliceblue;
+    border: 0;
+}
+/* about section*/
+
+.about{
+    padding: 50px 250px 100px 700px;
+}
+
+.about-title{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+}
+
+.about-description{
+    width: 416px;
+    height: 104px;
+    left: 862px;
+    top: 1296px;
+    color: #444343;
+}
+
+.about .about-list{
+    color: #444343;
+}
+
+/* my plan */ 
+.my-plan{
+        text-align: center;
+        font-weight: 700;
+        font-size: 40px;
+        padding-top: 50px;
+}
+.skill-container{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 200px 100px 200px;
+}
+.skill .plan{
+    font-size: 20px;
+    font:bold;
+    padding: 5px;
+}
+.plan .skill-title{
+        font-style: normal;
+        font-weight: 700;
+        font-size: 30px;
+        text-align: center;
+}
+.plan .skill-description{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    color: #737272;
+}
